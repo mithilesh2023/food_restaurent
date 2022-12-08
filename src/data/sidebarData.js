@@ -1,0 +1,22 @@
+export const sidebarData=[
+    {
+        id:1,
+        name:"Pizza"
+    },
+     {
+        id:2,
+        name:"Burger"
+    },
+     {
+        id:3,
+        name:"Momo"
+    }, 
+    {
+        id:4,
+        name:"Chawmin"
+    }, 
+    {
+        id:5,
+        name:"Chat"
+    },
+]

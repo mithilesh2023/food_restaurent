@@ -1,0 +1,32 @@
+export const product=[
+    {
+        id:"1",
+        name:"Pizza",
+        img:"",
+        price:"Rs.40",
+    },
+    {
+        id:"2",
+        name:"Burger",
+        img:"",
+        price:"Rs.40",
+    },
+    {
+        id:"3",
+        name:"Momo",
+        img:"",
+        price:"Rs.40",
+    },
+    {
+        id:"4",
+        name:"Chawmin",
+        img:"",
+        price:"Rs.40",
+    }, 
+    {
+        id:"5",
+        name:"Chat",
+        img:"",
+        price:"Rs.40",
+    },
+]
